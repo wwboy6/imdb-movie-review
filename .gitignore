@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Backup files
+*~ 
+*.bak
+*.swp
+
+# Other temporary files
+*.tmp
+*.temp
+
+# Generated files
+checkpoint
